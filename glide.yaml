@@ -1,0 +1,7 @@
+package: github.com/rayzer/go-microservice-test
+import:
+- package: github.com/gorilla/mux
+  version: v1.6.1
+- package: github.com/unrolled/render
+- package: github.com/urfave/negroni
+  version: v0.3.0
